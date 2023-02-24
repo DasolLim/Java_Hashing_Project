@@ -1,5 +1,5 @@
 # Java_Hashing_Project
-Demonstrated understanding in hashing
+Demonstrated understanding in hashing.
 
 Hashing:
 - determine index or location of storage of an item (hash code or hash index)
@@ -26,9 +26,9 @@ Available:
 - location entry removed from the distionary
 - search go past the location if the expected entry is not found in any available location
 
-Implemented open addressing collision resolving techniques 
+Implemented open addressing collision resolving techniques.
 
-Programmed linear probing, double probing, quadratic probing, and rehashing
+Programmed linear probing, double probing, quadratic probing, and rehashing.
 
 ![image](https://user-images.githubusercontent.com/92288227/221117189-0f9199e2-55e3-4bd2-9ff8-f838c6d3d474.png)
 ![image](https://user-images.githubusercontent.com/92288227/221117649-49d6286f-7778-4b55-b836-ba9e97c9b4de.png)

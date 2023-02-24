@@ -1,5 +1,4 @@
 # Java_Hashing_Project
-
 Demonstrated understanding in hashing.
 
 Hashing:

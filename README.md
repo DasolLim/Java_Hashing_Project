@@ -28,4 +28,4 @@ Implemented open addressing collision resolving techniques
 Programmed linear probing, double probing, quadratic probing, and rehashing
 
 ![image](https://user-images.githubusercontent.com/92288227/221117189-0f9199e2-55e3-4bd2-9ff8-f838c6d3d474.png)
-![image](https://user-images.githubusercontent.com/92288227/221117581-64139eff-90a6-4184-a28d-af30a8bbbcfb.png)
+![image](https://user-images.githubusercontent.com/92288227/221117649-49d6286f-7778-4b55-b836-ba9e97c9b4de.png)

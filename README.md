@@ -14,6 +14,7 @@ Hash Table:
 - if negative value, add the size of the hashtable until postive
 
 Hash Table Location:
+
 Occupied:
 - location references an entry in the dictionary
 

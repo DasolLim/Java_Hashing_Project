@@ -25,6 +25,7 @@ Available:
 - search go past the location if the expected entry is not found in any available location
 
 Implemented open addressing collision resolving techniques 
+
 Programmed linear probing, double probing, quadratic probing, and rehashing
 
 ![image](https://user-images.githubusercontent.com/92288227/221117189-0f9199e2-55e3-4bd2-9ff8-f838c6d3d474.png)

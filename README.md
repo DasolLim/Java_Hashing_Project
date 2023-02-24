@@ -1,5 +1,6 @@
 # Java_Hashing_Project
 Demonstrated understanding in hashing
+
 Hashing:
 - determine index or location of storage of an item (hash code or hash index)
 
